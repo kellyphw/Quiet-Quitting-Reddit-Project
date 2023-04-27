@@ -1,6 +1,6 @@
 # Quiet-Quitting-Reddit-Project
 
-**Abstract**
+**Abstract <br>
 “Quiet quitting” has been one of the internet’s favorite buzzwords, especially after COVID hit. The term referring to completing one’s minimum work requirements and putting in no more effort than absolutely necessary, it sparked controversy in the online space depending on where one stands in the job hierarchy. While advocates call it “working your wage”, those with negative view on this term see these behaviors as “slacking” at work, which will inevitably harm the development of one’s career and the business. 
 
 In fact, Gallup conducted a survey on quiet quitting in September 2022(random sample of 15,091 full- and part-time U.S. employees aged 18 and over, surveyed in June of 2022), where they counted the number of workers who report being neither engaged nor actively disengaged at work. The result was shocking. The survey showed at least half of the U.S. workforce to be quiet quitting. Though the data on how workers feel about their jobs hasn’t shifted much over the last few years, which may be suggesting that the feeling of disengagement at work in the US is a common phenomenon, there was a noticeable change in the younger age groups. The percentage of engaged employees under the age of 35 dropped by six percentage points from 2019 to 2022, and percentage of actively disengaged employees increased by six points. This showed how the sentiment is shared the most amongst the Gen Z and millennials, where it indicates for businesses to pay closer attention these two generations. 
